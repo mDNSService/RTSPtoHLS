@@ -5,7 +5,7 @@
   "streams": {
     "H264_AAC": {
       "on_demand": false,
-      "url": "rtsp://171.25.232.20/d7b92541b4914c8e98104cba907864f8"
+      "url": "rtsp://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream"
     }
   }
 }
